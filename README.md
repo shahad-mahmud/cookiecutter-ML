@@ -1,6 +1,6 @@
-# Cookiecutter NLP template
+# Cookiecutter ML template
 
-A standard and flexible project structure for NLP works.
+A standard and flexible project structure for ML works including NLP, CV, etc.
 
 ## Installing Cookiecutter
 
@@ -17,7 +17,7 @@ conda install -c conda-force cookiecutter
 
 ## Start a new project
 
-Copy, paste, run the following command and setup your awesome NLP project.
+Copy, paste, run the following command and setup your awesome ML project.
 
 ```bash
 cookiecutter https://github.com/shahad-mahmud/cookiecutter-ml.git
