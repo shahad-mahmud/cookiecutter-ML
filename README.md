@@ -20,5 +20,5 @@ conda install -c conda-force cookiecutter
 Copy, paste, run the following command and setup your awesome NLP project.
 
 ```bash
-cookiecutter https://github.com/shahad-mahmud/cookiecutter-nlp.git
+cookiecutter https://github.com/shahad-mahmud/cookiecutter-ml.git
 ```
